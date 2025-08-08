@@ -23,12 +23,6 @@ Previously, I was a Student Supervisor at Miami University Makerspace, where I d
 - **Tools:** Git/GitHub, Jira, Docker, Microsoft Office, Adobe Creative Suite  
 - **Concepts:** Secure coding, OOP, SDLC, Agile development, software testing
 
----
-
-## 📁 Selected Public Projects
-
-- [`Image-Processing`]((https://github.com/emilymstev/Image-Processing)) – An interactive image processing gallery  
-- [`Interactive-Voronoi-Diagram`]((https://github.com/emilymstev/Interactive-Voronoi-Diagram)) – An interactive voronoi diagram that allows for addition or removal of sites and toggling between 3 distance modes
 
 ---
 
@@ -40,8 +34,8 @@ If are an interviewer or recruiter who would like access, I’m happy to share �
 ## 📫 Connect with Me
 
 - ✉️ emilymstev@gmail.com  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/emily-stevenson-64046824b/))  
-- 🧾 [Emily Stevenson Software Engineer Resume.pdf](https://github.com/user-attachments/files/21687846/Emily.Stevenson.Software.Engineer.Resume.pdf)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/emily-stevenson-64046824b/])  
+- 🧾 [Resume]([https://github.com/user-attachments/files/21687846/Emily.Stevenson.Software.Engineer.Resume.pdf])
 
 
 Thanks for stopping by!
