@@ -34,8 +34,8 @@ If are an interviewer or recruiter who would like access, I’m happy to share �
 ## 📫 Connect with Me
 
 - ✉️ emilymstev@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/emily-stevenson-64046824b/])  
-- 🧾 [Resume]([https://github.com/user-attachments/files/21687846/Emily.Stevenson.Software.Engineer.Resume.pdf])
+- 💼 [LinkedIn](https://www.linkedin.com/in/emily-stevenson-64046824b/)
+- 🧾 [Resume](https://github.com/user-attachments/files/21687846/Emily.Stevenson.Software.Engineer.Resume.pdf)
 
 
 Thanks for stopping by!
