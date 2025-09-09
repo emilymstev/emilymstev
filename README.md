@@ -38,7 +38,6 @@ One of my current frontend projects is being hosted on AWS Amplify. Follow the l
 
 - ✉️ emilymstev@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emily-stevenson-64046824b/)
-- 🧾 [Resume](https://github.com/user-attachments/files/21687846/Emily.Stevenson.Software.Engineer.Resume.pdf)
-
+- 🧾 [Resume](https://github.com/user-attachments/files/22234472/Emily.Stevenson.Cincinnati.Software.Developer.Resume.pdf)
 
 Thanks for stopping by!
