@@ -30,7 +30,7 @@ Previously, I was a Student Supervisor at Miami University Makerspace, where I d
 If are an interviewer or recruiter who would like access, I’m happy to share — just send me your GitHub username or contact me via email!
 
 One of my current frontend projects is being hosted on AWS Amplify. Follow the link to view. You may contact me to request the username and password for access to this!
-[Wilmington Iron New In-Progress Site](new.wilmingtoniron.com)
+[Wilmington Iron New In-Progress Site](https://new.wilmingtoniron.com/)
 
 ---
 
