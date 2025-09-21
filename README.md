@@ -32,6 +32,8 @@ If are an interviewer or recruiter who would like access, I’m happy to share �
 One of my current frontend projects is being hosted on AWS Amplify. Follow the link to view. You may contact me to request the username and password for access to this!
 [Wilmington Iron New In-Progress Site](https://new.wilmingtoniron.com/)
 
+I am also an updator on this site. [Isomet Recycling](https://www.isometrecycling.com/)
+
 ---
 
 ## 📫 Connect with Me
